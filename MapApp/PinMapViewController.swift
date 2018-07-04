@@ -13,6 +13,8 @@ import CoreLocation
 import CoreMotion
 import Darwin
 
+//タバコ吸いたい
+
 class PinMapViewController: UIViewController, GMSMapViewDelegate, CLLocationManagerDelegate {
   
   var lat:Double = 0
